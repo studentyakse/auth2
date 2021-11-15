@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Авторизация</string>
+    <string name="button_login">Log in</string>
+    <string name="text_attempts">Осталось попыток:</string>
+    <string name="text_login">Логин</string>
+    <string name="text_pass">Пароль</string>
+</resources>
